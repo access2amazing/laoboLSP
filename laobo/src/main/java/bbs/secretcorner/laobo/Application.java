@@ -1,4 +1,4 @@
-package org.zhaoyangerqi.laobo;
+package bbs.secretcorner.laobo;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
